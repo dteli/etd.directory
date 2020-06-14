@@ -2,6 +2,10 @@ import Vue from 'vue'
 import VueRouter, { RouteConfig } from 'vue-router'
 import Home from '../views/Home.vue'
 
+import Domains from '@/views/Domains.vue'
+
+import data from '@/data.json'
+
 Vue.use(VueRouter)
 
 const routes: Array<RouteConfig> = [
@@ -17,6 +21,12 @@ const routes: Array<RouteConfig> = [
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
+  },
+  {
+    path: '/domains',
+    name: 'Domains',
+    component: Domains,
+    props: { domains: data.domains }
   }
 ]
 

@@ -1,0 +1,88 @@
+{
+  "domains": [
+    {
+      "name": "dte.li",
+      "inUse": true,
+      "description": "my personal website",
+      "registrar": "Swizzonic"
+    },
+    {
+      "name": "bounce.haus",
+      "inUse": false,
+      "description": "blurb",
+      "registrar": "Namecheap"
+    },
+    {
+      "name": "aoeui.org",
+      "inUse": false,
+      "description": "blurb",
+      "registrar": "Google"
+    },
+    {
+      "name": "png.st",
+      "inUse": false,
+      "description": "blurb",
+      "registrar": "ST Registry"
+    },
+
+    {
+      "name": "pattaylor.art",
+      "inUse": false,
+      "description": "blurb",
+      "registrar": "Gandi.net"
+    },
+
+
+    {
+      "name": "vloeistof.co",
+      "inUse": true,
+      "description": "blurb",
+      "registrar": "Namecheap"
+    },
+
+
+    {
+      "name": "yde.li",
+      "inUse": true,
+      "description": "blurb",
+      "registrar": "Namecheap"
+    },
+
+
+    {
+      "name": "etd.blue",
+      "inUse": true,
+      "description": "blurb"
+    },
+    {
+      "name": "etd.red",
+      "inUse": false,
+      "description": "blurb"
+    },
+    {
+      "name": "etd.green",
+      "inUse": false,
+      "description": "blurb"
+    },
+
+
+    {
+      "name": "etd.photos",
+      "inUse": true,
+      "description": "blurb"
+    },
+    {
+      "name": "eli.photos",
+      "inUse": false,
+      "description": "blurb"
+    },
+
+
+
+    {
+      "name": "rickd.ru",
+      "inUse": false,
+      "description": "blurb"
+    }
+  ]
+}
