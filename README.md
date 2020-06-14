@@ -1,24 +1,22 @@
 # etd.directory
 
-## Project setup
-```
-npm install
-```
+An index of my presence, I guess?
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+So far I'm only tracking domains/sites but I want to expand this.
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
